@@ -1,6 +1,5 @@
 package com.tuapp.controller;
 
-import com.tuapp.event.OrderCreatedEvent;
 import com.tuapp.model.OrderRequest;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.ApplicationEventPublisher;
